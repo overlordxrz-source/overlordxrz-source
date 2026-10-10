@@ -4,7 +4,7 @@
   <img alt="dimitar" src="./assets/banner-dark.svg" width="100%">
 </picture>
 
-aerospace eng @ kent state. from sofia.
+aerospace eng @ kent state. from Bulgaria 🇧🇬
 
 ---
 
@@ -30,8 +30,7 @@ gaia dr3 sources simbad never classified, ml outliers, fast movers, quasar candi
 
 **ps5 emulation**  
 i work on [anyps5](https://github.com/boykopovar/AnyPS5) and [kytyps5](https://github.com/KytyPS5/KytyPS5)  
-kernel semantics, x86 relinking, vulkan, shaders  
-i only fix what a real game actually breaks on
+kernel semantics, x86 relinking, vulkan, shaders, wtv 
 
 ```
           .        *                  .            .
