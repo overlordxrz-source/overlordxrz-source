@@ -27,10 +27,7 @@ gaia dr3 sources simbad never classified, ml outliers, fast movers, quasar candi
 
 **ps5 emulation**
 i work on [anyps5](https://github.com/boykopovar/AnyPS5) and [kytyps5](https://github.com/KytyPS5/KytyPS5)
-kernel semantics, x86 relinking, vulkan, shaders
-finished libc, unblocked cyberpunk / minecraft legends / demon's souls boot paths
-i only fix what a real game actually breaks on
-
+kernel semantics, x86 relinking, shader bs
 ---
 
 [x](https://x.com/ovrlrdx) · overlordxrz@gmail.com
