@@ -8,6 +8,12 @@ aerospace eng @ kent state. from Bulgaria 🇧🇬
 
 ---
 
+**[specter-x](https://github.com/overlordxrz-source/specter-x)**
+open-source handheld multisensor fusion: low-light, thermal, 60 ghz radar and wi-fi sensing on a pi 5, every overlay traceable to its sensor
+![specter-x pod view](https://raw.githubusercontent.com/overlordxrz-source/specter-x/main/docs/pod.png)
+
+---
+
 **[throng](https://github.com/overlordxrz-source/throng)**  
 can language show up when the only reward is staying alive  
 predator vs prey on a torus, mappo. prey are half blind and talk through 3 tiny vq codebooks  
