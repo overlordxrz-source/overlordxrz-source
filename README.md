@@ -13,12 +13,6 @@ open-source handheld multisensor fusion: low-light, thermal, 60 ghz radar and wi
 
 <img src="https://raw.githubusercontent.com/overlordxrz-source/specter-x/main/docs/pod.png" width="600">
 
-**[oracle](https://github.com/overlordxrz-source/oracle)**
-free satellite osint. ask it something and it goes and looks
-
-**[finderx](https://github.com/overlordxrz-source/finderX)**
-point at the sky, find what nobody named yet
-
 ---
 
 **[throng](https://github.com/overlordxrz-source/throng)**  
