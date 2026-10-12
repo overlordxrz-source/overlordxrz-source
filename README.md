@@ -14,11 +14,9 @@ open-source handheld multisensor fusion: low-light, thermal, 60 ghz radar and wi
 
 **[oracle](https://github.com/overlordxrz-source/oracle)**
 free satellite osint. ask it something and it goes and looks
-<img src="https://raw.githubusercontent.com/overlordxrz-source/oracle/main/docs/ui.png" width="600">
 
 **[finderx](https://github.com/overlordxrz-source/finderX)**
 point at the sky, find what nobody named yet
-<img src="https://raw.githubusercontent.com/overlordxrz-source/finderX/main/docs/ui.png" width="600">
 
 ---
 
