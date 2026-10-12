@@ -10,6 +10,7 @@ aerospace eng @ kent state. from Bulgaria 🇧🇬
 
 **[specter-x](https://github.com/overlordxrz-source/specter-x)**
 open-source handheld multisensor fusion: low-light, thermal, 60 ghz radar and wi-fi sensing on a pi 5, every overlay traceable to its sensor
+
 <img src="https://raw.githubusercontent.com/overlordxrz-source/specter-x/main/docs/pod.png" width="600">
 
 **[oracle](https://github.com/overlordxrz-source/oracle)**
